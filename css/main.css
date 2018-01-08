@@ -20,3 +20,18 @@ nav ul li {
     list-style-type: none;
     display: inline-block;
 }
+.A {
+    background: orangered;
+}
+.B {
+    background: rebeccapurple;
+}
+.C {
+    background: yellow;
+}
+.row {
+    margin: 5px;
+    padding: 10px;
+    background: black;
+    color: whitesmoke;
+}
